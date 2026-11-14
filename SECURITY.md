@@ -1,4 +1,4 @@
-# Security Policy
+# gatormane37@gmail.com
 
 Techaro follows the [Semver 2.0 scheme](https://semver.org/).
 
